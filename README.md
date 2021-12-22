@@ -7,6 +7,6 @@ Built using Python and Flask framework.
 
 URL: https://greenpass-decoder.debbaweb.it
 
-### My Fork
+### Own Fork
 
 URL: https://boot4root-covid19-decoder.herokuapp.com/
